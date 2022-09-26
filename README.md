@@ -15,10 +15,11 @@
  <img src="https://gpvc.arturio.dev/rabibsust" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rabibsust)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working as a Senior Software Engineer at Japan Travel KK. I am a full stack developer. My Tech stack includes HTML, SCSS, PHP, Laravel, Javascript, NodeJS, Wordpress, Git, Trello, System Design.
 - 🌱 I’m currently learning ReactJS to make myself as a Fullstack JS Dev.
 - 👯 I love to contribute on any open source ERP like Dolibarr (already contributed there) and Node/ReactJS based projects.
 - 💬 Ask me about Laravel or Dolibarr core or the modules.
 - ⚡ Fun fact: I love to eat, travel and sleep. Just a normal human being 😄
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rabibsust&theme=gruvbox)]
