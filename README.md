@@ -23,3 +23,9 @@
 - ⚡ Fun fact: I love to eat, travel and sleep. Just a normal human being 😄
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabibsust&theme=gruvbox" alt="rabibsust" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabibsust&show_icons=true&locale=en&layout=compact" alt="rabibsust" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabibsust&show_icons=true&locale=en" alt="rabibsust" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabibsust&" alt="rabibsust" /></p>
