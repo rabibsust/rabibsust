@@ -22,4 +22,4 @@
 - 💬 Ask me about Laravel or Dolibarr core or the modules.
 - ⚡ Fun fact: I love to eat, travel and sleep. Just a normal human being 😄
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rabibsust&theme=gruvbox)]
+![trophy](https://github-profile-trophy.vercel.app/?username=rabibsust&theme=gruvbox)
