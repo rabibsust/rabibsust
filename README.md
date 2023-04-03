@@ -15,11 +15,11 @@ I have been working as a Software Engineer since 2014. I learned to code with Ja
 *   👯 I love to contribute on any open source ERP like Dolibarr (already contributed there) and Node/ReactJS based projects.
 *   💬 Ask me about Laravel or Dolibarr core or the modules.
 *   ⚡ Fun fact: I love to eat, travel and sleep. Just a normal human being 😄
-*   🤝  I'm open to collaborating on Interesting Projects<a href="https://www.twitter.com/rabibsust" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/rabibsust?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
-            
+*   🤝  I'm open to collaborating on Interesting Projects
 
+
+
+<a href="https://www.twitter.com/rabibsust" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/rabibsust?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 <p align='center'>
 <a href="mailto:rabib.sust@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
@@ -36,12 +36,6 @@ I have been working as a Software Engineer since 2014. I learned to code with Ja
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabibsust&theme=gruvbox" alt="rabibsust" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabibsust&show_icons=true&locale=en&layout=compact" alt="rabibsust" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabibsust&show_icons=true&locale=en" alt="rabibsust" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabibsust&" alt="rabibsust" /></p>
 
 ### Skills
 <p align="left">
@@ -69,7 +63,9 @@ I have been working as a Software Engineer since 2014. I learned to code with Ja
     <a href="https://www.twitter.com/rabibsust" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-### Badges<b>My GitHub Stats</b>
+### Badges
+
+<b>My GitHub Stats</b>
 <a href="http://www.github.com/rabibsust"><img src="https://github-readme-stats.vercel.app/api?username=rabibsust&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rabibsust's GitHub stats" /></a>
 <a href="http://www.github.com/rabibsust"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rabibsust&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/rabibsust" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabibsust&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
