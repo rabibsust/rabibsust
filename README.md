@@ -8,10 +8,10 @@ I have been working as a Software Engineer since 2014. I learned to code with Ja
 
 *   🌍  I'm based in Sylhet, Bangladesh
 *   ✉️  You can contact me at [rabib.sust@gmail.com](mailto:rabib.sust@gmail.com)
-*   🚀  I'm currently working on [Visit Suruga](http://www.visit-suruga.com/)
-*   🧠  I'm learning ReactJS
+*   🚀  I'm currently working on [Visit Suruga](http://www.visit-suruga.com/), [Kanagawa](https://trip.pref.kanagawa.jp/), [Magcul](https://magcul.net/)
+*   🧠  I've gained experience on React
 *   I’m currently working as a Senior Software Engineer at Japan Travel KK. I am a full stack developer. My Tech stack includes HTML, SCSS, PHP, Laravel, Javascript, NodeJS, Wordpress, Git, Trello, System Design.
-*   🌱 I’m currently learning ReactJS to make myself as a Fullstack JS Dev.
+*   🌱 I’m Planning to work on some microsaas applications to make some changes in the environment.
 *   👯 I love to contribute on any open source ERP like Dolibarr (already contributed there) and Node/ReactJS based projects.
 *   💬 Ask me about Laravel or Dolibarr core or the modules.
 *   ⚡ Fun fact: I love to eat, travel and sleep. Just a normal human being 😄
