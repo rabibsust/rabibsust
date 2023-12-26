@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmad Jamaly Rabib
 ==========================================================================================================================================
 
-Making the web a beautiful place
---------------------------------
+Making the web a beautiful place #FreePalestine
+-----------------------------------------------
 
 I have been working as a Software Engineer since 2014. I learned to code with Java, then created some android apps. After that I moved to Web development. In early days I learned VBScript, Ruby, PHP and created few applications with it. Later I learned about PHP frameworks. My first PHP framework was Symfony, then eventually I learned about Yii, Yii2 then Laravel. And currently making web apps with laravel. In these years I have been continuously learning about different technologies and libraries so that I don't get bored 🥱 Currently I am learning about different JS frameworks and libraries. Already worked on few projects with VueJS and React. But there are lots of things to learn. Currently my main goal is to learn MERN stack. I have already worked with ES6+ so I think it would not be much harder. 😁🤞
 
