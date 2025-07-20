@@ -1,18 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmad Jamaly Rabib
 ==========================================================================================================================================
 
-Making the web a beautiful place #FreePalestine
+Making the web a beautiful place
 -----------------------------------------------
 
 I have been working as a Software Engineer since 2014. I learned to code with Java, then created some android apps. After that I moved to Web development. In early days I learned VBScript, Ruby, PHP and created few applications with it. Later I learned about PHP frameworks. My first PHP framework was Symfony, then eventually I learned about Yii, Yii2 then Laravel. And currently making web apps with laravel. In these years I have been continuously learning about different technologies and libraries so that I don't get bored 🥱 Currently I am learning about different JS frameworks and libraries. Already worked on few projects with VueJS and React. But there are lots of things to learn. Currently my main goal is to learn MERN stack. I have already worked with ES6+ so I think it would not be much harder. 😁🤞
 
 *   🌍  I'm based in Sylhet, Bangladesh
 *   ✉️  You can contact me at [rabib.sust@gmail.com](mailto:rabib.sust@gmail.com)
-*   🚀  I'm currently working on [Visit Suruga](http://www.visit-suruga.com/), [Kanagawa](https://trip.pref.kanagawa.jp/), [Magcul](https://magcul.net/)
-*   🧠  I've gained experience on React
-*   I’m currently working as a Senior Software Engineer at Japan Travel KK. I am a full stack developer. My Tech stack includes HTML, SCSS, PHP, Laravel, Javascript, NodeJS, Wordpress, Git, Trello, System Design.
+*   🚀  I'm currently working on [Japan Travel](https://en.japantravel.com/) [Visit Suruga](https://www.visit-suruga.com/), [Kanagawa](https://trip.pref.kanagawa.jp/), [Magcul](https://magcul.net/)
+*   I’m currently working as a Senior Software Engineer at Japan Travel KK. I am a full stack developer. My Tech stack includes PHP, Laravel, Javascript, NodeJS, Wordpress, VueJS, React, AI development.
 *   🌱 I’m Planning to work on some microsaas applications to make some changes in the environment.
-*   👯 I love to contribute on any open source ERP like Dolibarr (already contributed there) and Node/ReactJS based projects.
+*   👯 I love to contribute on any open source ERP like Dolibarr (already contributed there) and Node/ReactJS/VueJS/AI based projects.
 *   💬 Ask me about Laravel or Dolibarr core or the modules.
 *   ⚡ Fun fact: I love to eat, travel and sleep. Just a normal human being 😄
 *   🤝  I'm open to collaborating on Interesting Projects
